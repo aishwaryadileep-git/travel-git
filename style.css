@@ -1,0 +1,99 @@
+
+    body{
+        font-family: "Noto Serif", serif;
+    }
+    
+    #intro{
+        background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1564523099100-9MPVY26S7NP0LQP96ESV/IMG_1370.jpg?format=2500w);
+        height: 700px;
+        width: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: 50% 100%; 
+    }
+    
+    #costarica{
+        background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1702492982401-HI0K7NIQGRWTFV6XXWS7/2L1A4033-2.jpg?format=1500w);
+        width: 100%;
+        height: 300px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed; 
+        background-position: 50% 50%; 
+    }
+
+    /* #costarica p{
+        padding-top: 55px;
+    } */
+
+    #travelescape{
+        background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1614177681093-V8HGWW9NNPQQU7ZT2H8Q/DSC03553.jpg?format=1500w);
+        width: 100%;
+        height: 300px;
+        background-size: 100%;
+        background-position: 50% 60%; 
+    }
+
+    #constantly{
+        background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1614364160684-WSO2LL2ZPCRBH76QXG47/IMG_2152.jpg?format=1500w);
+        width: 100%;
+        height: 300px;
+        background-size: 100%;
+        background-position: 50% 60%; 
+    }
+
+    #paris{
+        background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1619706660898-8EVJJ06GFFGKLCGM2LAT/IMG_1895-2.jpg?format=1500w);
+        width: 100%;
+        height: 400px;
+        background-size: 140%;
+        background-position: 50% 95%; 
+    }
+
+    #print{
+        background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1638358430144-DEOZ4EDGFO8HJ6I18BAW/Cover+Image-Grey.png?format=2500w);
+        width: 100%;
+        height: 400px;
+        background-size: 100%;
+        background-position: 50% 50%; 
+    }
+
+    #discover{
+        background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1564523185860-340THSZIM66R5LWD11AZ/IMG_9117.jpg?format=2500w);
+        width: 100%;
+        height: 700px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: 50% 90%; 
+    }
+
+    #travel{
+        background-image: url(https://images.squarespace-cdn.com/content/v1/53172b1be4b0cc8a5401db4a/1564522286836-K1D523NKQZ7JIE89GFDP/DSC07431.jpg?format=1500w);
+        width: 100%;
+        height: 400px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: 50% 90%;
+    }
+
+
+    #destination a{
+        text-decoration: none;
+        color: rgb(41, 36, 36);
+    }
+
+    /* #subintro .row #subintro1{
+        position: relative;
+    } */
+
+    #subintro .row #subintro1 p{
+       margin-top:200px; 
+    }
+
+    #subintro .row #subintro1 h5{
+     margin-bottom: 25px;
+    }
+    
